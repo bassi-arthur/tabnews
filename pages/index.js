@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>Titulo da home page</h1>;
+  return <h1>Ta com fome tmb ? 👀</h1>;
 }
